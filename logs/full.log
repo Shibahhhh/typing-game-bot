@@ -1,0 +1,48 @@
+2021-07-25 11:38:08 - info: Initializing Commands...
+2021-07-25 11:38:11 - info: 
+.------------------------------.
+|           Commands           |
+|------------------------------|
+|       Command       | Status |
+|---------------------|--------|
+| countries.js        | Pass   |
+| easy.js             | Pass   |
+| food.js             | Pass   |
+| hard.js             | Pass   |
+| insane.js           | Pass   |
+| normal.js           | Pass   |
+| sentence.js         | Pass   |
+| sports.js           | Pass   |
+| botinfo.js          | Pass   |
+| help.js             | Pass   |
+| ping.js             | Pass   |
+| tos.js              | Pass   |
+| fun_fact.js         | Pass   |
+| suggest.js          | Pass   |
+| tod.js              | Pass   |
+| wyr.js              | Pass   |
+| blacklist.js        | Pass   |
+| eval.js             | Pass   |
+| perms.js            | Pass   |
+| post.js             | Pass   |
+| premium.js          | Pass   |
+| reload.js           | Pass   |
+| restart.js          | Pass   |
+| test.js             | Pass   |
+| guess-the-number.js | Pass   |
+| premium-status.js   | Pass   |
+| set-prefix.js       | Pass   |
+| snake.js            | Pass   |
+| guess-the-number.js | Pass   |
+| trivia.js           | Pass   |
+'------------------------------'
+2021-07-25 11:38:11 - info: Initialized debug Event
+2021-07-25 11:38:11 - info: Initialized error Event
+2021-07-25 11:38:11 - info: Initialized guildCreate Event
+2021-07-25 11:38:11 - info: Initialized guildDelete Event
+2021-07-25 11:38:11 - info: Initialized message Event
+2021-07-25 11:38:11 - info: Initialized ready Event
+2021-07-25 11:38:11 - info: Initialized warn Event
+2021-07-25 11:38:12 - info: Connected to mongo-db
+2021-07-25 11:38:12 - info: Updating bot...
+2021-07-25 11:38:12 - info: Bot is online
